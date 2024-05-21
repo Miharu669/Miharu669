@@ -1,4 +1,4 @@
-# Welcome-Git# Hi there! 👋
+# Hi there! 👋
 
 ### About me:
 
