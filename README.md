@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm a 34 years old girl from Spain, I love animals and gaming
+I'm a 35 years old girl from Spain, I love animals and gaming
 
 - 🌱 I’m currently learning Fullstack on FactoriaF5
 - 💬 Ask me about ravens.
