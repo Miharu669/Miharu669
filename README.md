@@ -1,5 +1,6 @@
 
-![github-header-image](https://github.com/Miharu669/Miharu669/assets/168824422/e0d04a0b-a702-4022-ad60-0f0d27841b3e)
+![github-header-image (1)](https://github.com/Miharu669/Miharu669/assets/168824422/0021ad9c-bfba-451f-aa21-64eb47d6bd8f)
+
 
 # 💫 About Me:
 <br>🌱 I’m currently learning Fullstack Developer on FactoriaF5.<br>💬 Ask me about ravens.<br>⚡ Fun fact: A cow drools more than 100L per day.
