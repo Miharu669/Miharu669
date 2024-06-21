@@ -1,5 +1,6 @@
 
-![github-header-image (1)](https://github.com/Miharu669/Miharu669/assets/168824422/0021ad9c-bfba-451f-aa21-64eb47d6bd8f)
+![github-header-image (3)](https://github.com/Miharu669/Miharu669/assets/168824422/63494764-5bfb-47e2-8e2d-628abd709486)
+
 
 
 # 💫 About Me:
